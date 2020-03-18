@@ -1,0 +1,141 @@
+Day,Time,Assignment,Requirement,Scheduled
+15/11/2018,09:00:00 AM,Downtown Lobby,3.8,2
+15/11/2018,09:15:00 AM,Downtown Lobby,3.2,2
+15/11/2018,09:30:00 AM,Downtown Lobby,2.6,2
+15/11/2018,09:45:00 AM,Downtown Lobby,2.8,2
+15/11/2018,10:00:00 AM,Downtown Lobby,4.1,2
+15/11/2018,10:15:00 AM,Downtown Lobby,2.1,2
+15/11/2018,10:30:00 AM,Downtown Lobby,3.7,2
+15/11/2018,10:45:00 AM,Downtown Lobby,3.3,2
+15/11/2018,11:00:00 AM,Downtown Lobby,4.3,2
+15/11/2018,11:15:00 AM,Downtown Lobby,4.4,2
+15/11/2018,11:30:00 AM,Downtown Lobby,4.9,2
+15/11/2018,11:45:00 AM,Downtown Lobby,3.3,2
+15/11/2018,12:00:00 PM,Downtown Lobby,5.5,2
+15/11/2018,12:15:00 PM,Downtown Lobby,4.5,2
+15/11/2018,12:30:00 PM,Downtown Lobby,2.8,2
+15/11/2018,12:45:00 PM,Downtown Lobby,4.5,2
+15/11/2018,01:00:00 PM,Downtown Lobby,3.9,2
+15/11/2018,01:15:00 PM,Downtown Lobby,5.6,3
+15/11/2018,01:30:00 PM,Downtown Lobby,5.3,3
+15/11/2018,01:45:00 PM,Downtown Lobby,4.8,3
+15/11/2018,02:00:00 PM,Downtown Lobby,3.8,3
+15/11/2018,02:15:00 PM,Downtown Lobby,4.9,3
+15/11/2018,02:30:00 PM,Downtown Lobby,4.7,3
+15/11/2018,02:45:00 PM,Downtown Lobby,4.3,2
+15/11/2018,03:00:00 PM,Downtown Lobby,2.1,2
+15/11/2018,03:15:00 PM,Downtown Lobby,3,2
+15/11/2018,03:30:00 PM,Downtown Lobby,5.6,2
+15/11/2018,03:45:00 PM,Downtown Lobby,4.3,2
+15/11/2018,04:00:00 PM,Downtown Lobby,3.5,2
+15/11/2018,04:15:00 PM,Downtown Lobby,4.8,2
+15/11/2018,04:30:00 PM,Downtown Lobby,4.1,2
+15/11/2018,04:45:00 PM,Downtown Lobby,7.4,2
+15/11/2018,09:00:00 AM,Downtown Platform,2.1,2
+15/11/2018,09:15:00 AM,Downtown Platform,2.8,3
+15/11/2018,09:30:00 AM,Downtown Platform,3.7,3
+15/11/2018,09:45:00 AM,Downtown Platform,4.2,3
+15/11/2018,10:00:00 AM,Downtown Platform,3.6,3
+15/11/2018,10:15:00 AM,Downtown Platform,3.4,3
+15/11/2018,10:30:00 AM,Downtown Platform,2.1,4
+15/11/2018,10:45:00 AM,Downtown Platform,2.1,4
+15/11/2018,11:00:00 AM,Downtown Platform,2.7,3
+15/11/2018,11:15:00 AM,Downtown Platform,2.8,3
+15/11/2018,11:30:00 AM,Downtown Platform,2.2,3
+15/11/2018,11:45:00 AM,Downtown Platform,2.7,3
+15/11/2018,12:00:00 PM,Downtown Platform,2.1,4
+15/11/2018,12:15:00 PM,Downtown Platform,2.4,4
+15/11/2018,12:30:00 PM,Downtown Platform,3.2,4
+15/11/2018,12:45:00 PM,Downtown Platform,3.1,4
+15/11/2018,01:00:00 PM,Downtown Platform,3.5,4
+15/11/2018,01:15:00 PM,Downtown Platform,3,3
+15/11/2018,01:30:00 PM,Downtown Platform,2.9,3
+15/11/2018,01:45:00 PM,Downtown Platform,2.4,3
+15/11/2018,02:00:00 PM,Downtown Platform,2.2,2
+15/11/2018,02:15:00 PM,Downtown Platform,2.1,2
+15/11/2018,02:30:00 PM,Downtown Platform,2.1,2
+15/11/2018,02:45:00 PM,Downtown Platform,2.1,2
+15/11/2018,03:00:00 PM,Downtown Platform,2.5,2
+15/11/2018,03:15:00 PM,Downtown Platform,3,2
+15/11/2018,03:30:00 PM,Downtown Platform,3.2,2
+15/11/2018,03:45:00 PM,Downtown Platform,3.2,2
+15/11/2018,04:00:00 PM,Downtown Platform,3.9,2
+15/11/2018,04:15:00 PM,Downtown Platform,2.1,2
+15/11/2018,04:30:00 PM,Downtown Platform,3.8,2
+15/11/2018,04:45:00 PM,Downtown Platform,3.4,2
+15/11/2018,08:30:00 AM,Teller Opener Platform,1,1
+15/11/2018,08:45:00 AM,Teller Opener Platform,1,1
+15/11/2018,08:30:00 AM,MSR Opener Platform,1,1
+15/11/2018,08:45:00 AM,MSR Opener Platform,1,1
+15/11/2018,05:00:00 PM,Teller Closer Platform,1,1
+15/11/2018,05:15:00 PM,Teller Closer Platform,1,1
+15/11/2018,05:00:00 PM,MSR Closer Platform,1,1
+15/11/2018,05:15:00 PM,MSR Closer Platform,1,1
+15/11/2018,08:30:00 AM,Teller Opener Lobby,1,1
+15/11/2018,08:45:00 AM,Teller Opener Lobby,1,1
+15/11/2018,08:30:00 AM,MSR Opener Lobby,1,1
+15/11/2018,08:45:00 AM,MSR Opener Lobby,1,1
+15/11/2018,05:00:00 PM,Teller Closer Lobby,1,1
+15/11/2018,05:15:00 PM,Teller Closer Lobby,1,1
+15/11/2018,05:00:00 PM,MSR Closer Lobby,1,1
+15/11/2018,05:15:00 PM,MSR Closer Lobby,1,1
+15/11/2018,09:00:00 AM,BM Admin Time,1,0
+15/11/2018,09:15:00 AM,BM Admin Time,1,0
+15/11/2018,09:30:00 AM,BM Admin Time,1,0
+15/11/2018,09:45:00 AM,BM Admin Time,1,0
+15/11/2018,10:00:00 AM,BM Admin Time,1,0
+15/11/2018,10:15:00 AM,BM Admin Time,1,0
+15/11/2018,10:30:00 AM,BM Admin Time,1,0
+15/11/2018,10:45:00 AM,BM Admin Time,1,0
+15/11/2018,11:00:00 AM,BM Admin Time,1,0
+15/11/2018,11:15:00 AM,BM Admin Time,1,0
+15/11/2018,11:30:00 AM,BM Admin Time,1,0
+15/11/2018,11:45:00 AM,BM Admin Time,1,0
+15/11/2018,12:00:00 PM,BM Admin Time,1,0
+15/11/2018,12:15:00 PM,BM Admin Time,1,0
+15/11/2018,12:30:00 PM,BM Admin Time,1,0
+15/11/2018,12:45:00 PM,BM Admin Time,1,0
+15/11/2018,01:00:00 PM,BM Admin Time,1,0
+15/11/2018,01:15:00 PM,BM Admin Time,1,0
+15/11/2018,01:30:00 PM,BM Admin Time,1,0
+15/11/2018,01:45:00 PM,BM Admin Time,1,0
+15/11/2018,02:00:00 PM,BM Admin Time,1,0
+15/11/2018,02:15:00 PM,BM Admin Time,1,0
+15/11/2018,02:30:00 PM,BM Admin Time,1,0
+15/11/2018,02:45:00 PM,BM Admin Time,1,0
+15/11/2018,03:00:00 PM,BM Admin Time,1,0
+15/11/2018,03:15:00 PM,BM Admin Time,1,0
+15/11/2018,03:30:00 PM,BM Admin Time,1,0
+15/11/2018,03:45:00 PM,BM Admin Time,1,0
+15/11/2018,09:00:00 AM,ABM Admin Time,1,0
+15/11/2018,09:15:00 AM,ABM Admin Time,1,0
+15/11/2018,09:30:00 AM,ABM Admin Time,1,0
+15/11/2018,09:45:00 AM,ABM Admin Time,1,0
+15/11/2018,10:00:00 AM,ABM Admin Time,1,0
+15/11/2018,10:15:00 AM,ABM Admin Time,1,0
+15/11/2018,10:30:00 AM,ABM Admin Time,1,0
+15/11/2018,10:45:00 AM,ABM Admin Time,1,0
+15/11/2018,11:00:00 AM,ABM Admin Time,1,0
+15/11/2018,11:15:00 AM,ABM Admin Time,1,0
+15/11/2018,11:30:00 AM,ABM Admin Time,1,0
+15/11/2018,11:45:00 AM,ABM Admin Time,1,0
+15/11/2018,12:00:00 PM,ABM Admin Time,1,0
+15/11/2018,12:15:00 PM,ABM Admin Time,1,0
+15/11/2018,12:30:00 PM,ABM Admin Time,1,0
+15/11/2018,12:45:00 PM,ABM Admin Time,1,0
+15/11/2018,01:00:00 PM,ABM Admin Time,1,0
+15/11/2018,01:15:00 PM,ABM Admin Time,1,0
+15/11/2018,01:30:00 PM,ABM Admin Time,1,0
+15/11/2018,01:45:00 PM,ABM Admin Time,1,0
+15/11/2018,02:00:00 PM,ABM Admin Time,1,0
+15/11/2018,02:15:00 PM,ABM Admin Time,1,0
+15/11/2018,02:30:00 PM,ABM Admin Time,1,0
+15/11/2018,02:45:00 PM,ABM Admin Time,1,0
+15/11/2018,03:00:00 PM,ABM Admin Time,1,0
+15/11/2018,03:15:00 PM,ABM Admin Time,1,0
+15/11/2018,03:30:00 PM,ABM Admin Time,1,0
+15/11/2018,03:45:00 PM,ABM Admin Time,1,0
+15/11/2018,10:00:00 AM,BMT Meeting,2,0
+15/11/2018,10:15:00 AM,BMT Meeting,2,0
+15/11/2018,10:30:00 AM,BMT Meeting,2,0
+15/11/2018,10:45:00 AM,BMT Meeting,2,0
