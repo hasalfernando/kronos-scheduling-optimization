@@ -1,0 +1,513 @@
+,Employee,Day,TSlot,Assignment
+0,Employee501603,15/11/2018,09:00:00,Downtown Platform
+1,Employee501603,15/11/2018,09:15:00,Downtown Platform
+2,Employee501603,15/11/2018,09:30:00,Downtown Platform
+3,Employee501603,15/11/2018,09:45:00,Downtown Platform
+4,Employee501603,15/11/2018,10:00:00,Downtown Platform
+5,Employee501603,15/11/2018,10:15:00,Downtown Platform
+6,Employee501603,15/11/2018,10:30:00,Downtown Platform
+7,Employee501603,15/11/2018,10:45:00,Downtown Platform
+8,Employee501603,15/11/2018,11:00:00,Downtown Platform
+9,Employee501603,15/11/2018,11:15:00,Downtown Platform
+10,Employee501603,15/11/2018,11:30:00,Downtown Platform
+11,Employee501603,15/11/2018,11:45:00,Downtown Platform
+12,Employee501603,15/11/2018,12:00:00,Downtown Platform
+13,Employee501603,15/11/2018,12:15:00,Downtown Platform
+14,Employee501603,15/11/2018,12:30:00,Downtown Platform
+15,Employee501603,15/11/2018,12:45:00,Downtown Platform
+16,Employee501603,15/11/2018,13:00:00,Downtown Platform
+17,Employee501603,15/11/2018,13:15:00,Downtown Platform
+18,Employee501603,15/11/2018,13:30:00,Downtown Platform
+19,Employee501603,15/11/2018,13:45:00,Downtown Platform
+20,Employee501603,15/11/2018,14:00:00,Downtown Platform
+21,Employee501603,15/11/2018,14:15:00,Downtown Platform
+22,Employee501603,15/11/2018,14:30:00,Downtown Platform
+23,Employee501603,15/11/2018,14:45:00,Downtown Platform
+24,Employee501603,15/11/2018,15:00:00,Downtown Platform
+25,Employee501603,15/11/2018,15:15:00,Downtown Platform
+26,Employee501603,15/11/2018,15:30:00,Downtown Platform
+27,Employee501603,15/11/2018,15:45:00,Downtown Platform
+28,Employee501603,15/11/2018,16:00:00,Downtown Platform
+29,Employee501603,15/11/2018,16:15:00,Downtown Platform
+30,Employee501603,15/11/2018,16:30:00,Downtown Platform
+31,Employee501603,15/11/2018,16:45:00,Downtown Platform
+32,Employee501603,16/11/2018,09:00:00,Downtown Platform
+33,Employee501603,16/11/2018,09:15:00,Downtown Platform
+34,Employee501603,16/11/2018,09:30:00,Downtown Platform
+35,Employee501603,16/11/2018,09:45:00,Downtown Platform
+36,Employee501603,16/11/2018,10:00:00,Downtown Platform
+37,Employee501603,16/11/2018,10:15:00,Downtown Platform
+38,Employee501603,16/11/2018,10:30:00,Downtown Platform
+39,Employee501603,16/11/2018,10:45:00,Downtown Platform
+40,Employee501603,16/11/2018,11:00:00,Downtown Platform
+41,Employee501603,16/11/2018,11:15:00,Downtown Platform
+42,Employee501603,16/11/2018,11:30:00,Downtown Platform
+43,Employee501603,16/11/2018,11:45:00,Downtown Platform
+44,Employee501603,16/11/2018,12:00:00,Downtown Platform
+45,Employee501603,16/11/2018,12:15:00,Downtown Platform
+46,Employee501603,16/11/2018,12:30:00,Downtown Platform
+47,Employee501603,16/11/2018,12:45:00,Downtown Platform
+48,Employee501603,16/11/2018,13:00:00,Downtown Platform
+49,Employee501603,16/11/2018,13:15:00,Downtown Platform
+50,Employee501603,16/11/2018,13:30:00,Downtown Platform
+51,Employee501603,16/11/2018,13:45:00,Downtown Platform
+52,Employee501603,16/11/2018,14:00:00,Downtown Platform
+53,Employee501603,16/11/2018,14:15:00,Downtown Platform
+54,Employee501603,16/11/2018,14:30:00,Downtown Platform
+55,Employee501603,16/11/2018,14:45:00,Downtown Platform
+56,Employee501603,16/11/2018,15:00:00,Downtown Platform
+57,Employee501603,16/11/2018,15:15:00,Downtown Platform
+58,Employee501603,16/11/2018,15:30:00,Downtown Platform
+59,Employee501603,16/11/2018,15:45:00,Downtown Platform
+60,Employee501603,16/11/2018,16:00:00,Downtown Platform
+61,Employee501603,16/11/2018,16:15:00,Downtown Platform
+62,Employee501603,16/11/2018,16:30:00,Downtown Platform
+63,Employee501603,16/11/2018,16:45:00,Downtown Platform
+64,Employee501715,15/11/2018,09:00:00,Downtown Lobby
+65,Employee501715,15/11/2018,09:15:00,Downtown Lobby
+66,Employee501715,15/11/2018,09:30:00,Downtown Lobby
+67,Employee501715,15/11/2018,09:45:00,Downtown Lobby
+68,Employee501715,15/11/2018,10:00:00,Downtown Lobby
+69,Employee501715,15/11/2018,10:15:00,Downtown Lobby
+70,Employee501715,15/11/2018,10:30:00,Downtown Lobby
+71,Employee501715,15/11/2018,10:45:00,Downtown Lobby
+72,Employee501715,15/11/2018,11:00:00,Downtown Lobby
+73,Employee501715,15/11/2018,11:15:00,Downtown Lobby
+74,Employee501715,15/11/2018,11:30:00,Downtown Lobby
+75,Employee501715,15/11/2018,11:45:00,Downtown Lobby
+76,Employee501715,15/11/2018,12:00:00,Downtown Lobby
+77,Employee501715,15/11/2018,12:15:00,Downtown Lobby
+78,Employee501715,15/11/2018,12:30:00,Downtown Lobby
+79,Employee501715,15/11/2018,12:45:00,Downtown Lobby
+80,Employee501715,15/11/2018,13:00:00,Downtown Lobby
+81,Employee501715,15/11/2018,13:15:00,Downtown Lobby
+82,Employee501715,15/11/2018,13:30:00,Downtown Lobby
+83,Employee501715,15/11/2018,13:45:00,Downtown Lobby
+84,Employee501715,15/11/2018,14:00:00,Downtown Lobby
+85,Employee501715,15/11/2018,14:15:00,Downtown Lobby
+86,Employee501715,15/11/2018,14:30:00,Downtown Lobby
+87,Employee501715,15/11/2018,14:45:00,Downtown Lobby
+88,Employee501715,15/11/2018,15:00:00,Downtown Lobby
+89,Employee501715,15/11/2018,15:15:00,Downtown Lobby
+90,Employee501715,15/11/2018,15:30:00,Downtown Lobby
+91,Employee501715,15/11/2018,15:45:00,Downtown Lobby
+92,Employee501715,15/11/2018,16:00:00,Downtown Lobby
+93,Employee501715,15/11/2018,16:15:00,Downtown Lobby
+94,Employee501715,15/11/2018,16:30:00,Downtown Lobby
+95,Employee501715,15/11/2018,16:45:00,Downtown Lobby
+96,Employee501715,16/11/2018,09:00:00,Downtown Lobby
+97,Employee501715,16/11/2018,09:15:00,Downtown Lobby
+98,Employee501715,16/11/2018,09:30:00,Downtown Lobby
+99,Employee501715,16/11/2018,09:45:00,Downtown Lobby
+100,Employee501715,16/11/2018,10:00:00,Downtown Lobby
+101,Employee501715,16/11/2018,10:15:00,Downtown Lobby
+102,Employee501715,16/11/2018,10:30:00,Downtown Lobby
+103,Employee501715,16/11/2018,10:45:00,Downtown Lobby
+104,Employee501715,16/11/2018,11:00:00,Downtown Lobby
+105,Employee501715,16/11/2018,11:15:00,Downtown Lobby
+106,Employee501715,16/11/2018,11:30:00,Downtown Lobby
+107,Employee501715,16/11/2018,11:45:00,Downtown Lobby
+108,Employee501715,16/11/2018,12:00:00,Downtown Lobby
+109,Employee501715,16/11/2018,12:15:00,Downtown Lobby
+110,Employee501715,16/11/2018,12:30:00,Downtown Lobby
+111,Employee501715,16/11/2018,12:45:00,Downtown Lobby
+112,Employee501715,16/11/2018,13:00:00,Downtown Lobby
+113,Employee501715,16/11/2018,13:15:00,Downtown Lobby
+114,Employee501715,16/11/2018,13:30:00,Downtown Lobby
+115,Employee501715,16/11/2018,13:45:00,Downtown Lobby
+116,Employee501715,16/11/2018,14:00:00,Downtown Lobby
+117,Employee501715,16/11/2018,14:15:00,Downtown Lobby
+118,Employee501715,16/11/2018,14:30:00,Downtown Lobby
+119,Employee501715,16/11/2018,14:45:00,Downtown Lobby
+120,Employee501715,16/11/2018,15:00:00,Downtown Lobby
+121,Employee501715,16/11/2018,15:15:00,Downtown Lobby
+122,Employee501715,16/11/2018,15:30:00,Downtown Lobby
+123,Employee501715,16/11/2018,15:45:00,Downtown Lobby
+124,Employee501715,16/11/2018,16:00:00,Downtown Lobby
+125,Employee501715,16/11/2018,16:15:00,Downtown Lobby
+126,Employee501715,16/11/2018,16:30:00,Downtown Lobby
+127,Employee501715,16/11/2018,16:45:00,Downtown Lobby
+128,Employee501716,15/11/2018,09:00:00,Downtown Lobby
+129,Employee501716,15/11/2018,09:15:00,Downtown Lobby
+130,Employee501716,15/11/2018,09:30:00,Downtown Lobby
+131,Employee501716,15/11/2018,09:45:00,Downtown Lobby
+132,Employee501716,15/11/2018,10:00:00,Downtown Lobby
+133,Employee501716,15/11/2018,10:15:00,Downtown Lobby
+134,Employee501716,15/11/2018,10:30:00,Downtown Lobby
+135,Employee501716,15/11/2018,10:45:00,Downtown Lobby
+136,Employee501716,15/11/2018,11:00:00,Downtown Lobby
+137,Employee501716,15/11/2018,11:15:00,Downtown Lobby
+138,Employee501716,15/11/2018,11:30:00,Downtown Lobby
+139,Employee501716,15/11/2018,11:45:00,Downtown Lobby
+140,Employee501716,15/11/2018,12:00:00,Downtown Lobby
+141,Employee501716,15/11/2018,12:15:00,Downtown Lobby
+142,Employee501716,15/11/2018,12:30:00,Downtown Lobby
+143,Employee501716,15/11/2018,12:45:00,Downtown Lobby
+144,Employee501716,15/11/2018,13:00:00,Downtown Lobby
+145,Employee501716,15/11/2018,13:15:00,Downtown Lobby
+146,Employee501716,15/11/2018,13:30:00,Downtown Lobby
+147,Employee501716,15/11/2018,13:45:00,Downtown Lobby
+148,Employee501716,15/11/2018,14:00:00,Downtown Lobby
+149,Employee501716,15/11/2018,14:15:00,Downtown Lobby
+150,Employee501716,15/11/2018,14:30:00,Downtown Lobby
+151,Employee501716,15/11/2018,14:45:00,Downtown Lobby
+152,Employee501716,15/11/2018,15:00:00,Downtown Lobby
+153,Employee501716,15/11/2018,15:15:00,Downtown Lobby
+154,Employee501716,15/11/2018,15:30:00,Downtown Lobby
+155,Employee501716,15/11/2018,15:45:00,Downtown Lobby
+156,Employee501716,15/11/2018,16:00:00,Downtown Lobby
+157,Employee501716,15/11/2018,16:15:00,Downtown Lobby
+158,Employee501716,15/11/2018,16:30:00,Downtown Lobby
+159,Employee501716,15/11/2018,16:45:00,Downtown Lobby
+160,Employee501716,16/11/2018,09:00:00,Downtown Lobby
+161,Employee501716,16/11/2018,09:15:00,Downtown Lobby
+162,Employee501716,16/11/2018,09:30:00,Downtown Lobby
+163,Employee501716,16/11/2018,09:45:00,Downtown Lobby
+164,Employee501716,16/11/2018,10:00:00,Downtown Lobby
+165,Employee501716,16/11/2018,10:15:00,Downtown Lobby
+166,Employee501716,16/11/2018,10:30:00,Downtown Lobby
+167,Employee501716,16/11/2018,10:45:00,Downtown Lobby
+168,Employee501716,16/11/2018,11:00:00,Downtown Lobby
+169,Employee501716,16/11/2018,11:15:00,Downtown Lobby
+170,Employee501716,16/11/2018,11:30:00,Downtown Lobby
+171,Employee501716,16/11/2018,11:45:00,Downtown Lobby
+172,Employee501716,16/11/2018,12:00:00,Downtown Lobby
+173,Employee501716,16/11/2018,12:15:00,Downtown Lobby
+174,Employee501716,16/11/2018,12:30:00,Downtown Lobby
+175,Employee501716,16/11/2018,12:45:00,Downtown Lobby
+176,Employee501716,16/11/2018,13:00:00,Downtown Lobby
+177,Employee501716,16/11/2018,13:15:00,Downtown Lobby
+178,Employee501716,16/11/2018,13:30:00,Downtown Lobby
+179,Employee501716,16/11/2018,13:45:00,Downtown Lobby
+180,Employee501716,16/11/2018,14:00:00,Downtown Lobby
+181,Employee501716,16/11/2018,14:15:00,Downtown Lobby
+182,Employee501716,16/11/2018,14:30:00,Downtown Lobby
+183,Employee501716,16/11/2018,14:45:00,Downtown Lobby
+184,Employee501716,16/11/2018,15:00:00,Downtown Lobby
+185,Employee501716,16/11/2018,15:15:00,Downtown Lobby
+186,Employee501716,16/11/2018,15:30:00,Downtown Lobby
+187,Employee501716,16/11/2018,15:45:00,Downtown Lobby
+188,Employee501716,16/11/2018,16:00:00,Downtown Lobby
+189,Employee501716,16/11/2018,16:15:00,Downtown Lobby
+190,Employee501716,16/11/2018,16:30:00,Downtown Lobby
+191,Employee501716,16/11/2018,16:45:00,Downtown Lobby
+192,Employee501721,15/11/2018,09:00:00,BM Admin Time
+193,Employee501721,15/11/2018,09:15:00,BM Admin Time
+194,Employee501721,15/11/2018,09:30:00,BM Admin Time
+195,Employee501721,15/11/2018,09:45:00,BM Admin Time
+196,Employee501721,15/11/2018,10:00:00,BM Admin Time
+197,Employee501721,15/11/2018,10:15:00,BM Admin Time
+198,Employee501721,15/11/2018,10:30:00,BM Admin Time
+199,Employee501721,15/11/2018,10:45:00,BM Admin Time
+200,Employee501721,15/11/2018,11:00:00,BM Admin Time
+201,Employee501721,15/11/2018,11:15:00,BM Admin Time
+202,Employee501721,15/11/2018,11:30:00,BM Admin Time
+203,Employee501721,15/11/2018,11:45:00,BM Admin Time
+204,Employee501721,15/11/2018,12:00:00,BM Admin Time
+205,Employee501721,15/11/2018,12:15:00,BM Admin Time
+206,Employee501721,15/11/2018,12:30:00,BM Admin Time
+207,Employee501721,15/11/2018,12:45:00,BM Admin Time
+208,Employee501721,15/11/2018,13:00:00,BM Admin Time
+209,Employee501721,15/11/2018,13:15:00,BM Admin Time
+210,Employee501721,15/11/2018,13:30:00,BM Admin Time
+211,Employee501721,15/11/2018,13:45:00,BM Admin Time
+212,,,,
+213,,,,
+214,,,,
+215,,,,
+216,Employee501721,15/11/2018,15:00:00,BM Admin Time
+217,Employee501721,15/11/2018,15:15:00,BM Admin Time
+218,Employee501721,15/11/2018,15:30:00,BM Admin Time
+219,Employee501721,15/11/2018,15:45:00,BM Admin Time
+220,Employee501721,15/11/2018,16:00:00,Downtown Platform
+221,Employee501721,15/11/2018,16:15:00,Downtown Platform
+222,Employee501721,15/11/2018,16:30:00,Downtown Platform
+223,Employee501721,15/11/2018,16:45:00,Downtown Platform
+224,Employee501721,16/11/2018,09:00:00,BM Admin Time
+225,Employee501721,16/11/2018,09:15:00,BM Admin Time
+226,Employee501721,16/11/2018,09:30:00,BM Admin Time
+227,Employee501721,16/11/2018,09:45:00,BM Admin Time
+228,Employee501721,16/11/2018,10:00:00,BM Admin Time
+229,Employee501721,16/11/2018,10:15:00,BM Admin Time
+230,Employee501721,16/11/2018,10:30:00,BM Admin Time
+231,Employee501721,16/11/2018,10:45:00,BM Admin Time
+232,Employee501721,16/11/2018,11:00:00,BM Admin Time
+233,Employee501721,16/11/2018,11:15:00,BM Admin Time
+234,Employee501721,16/11/2018,11:30:00,BM Admin Time
+235,Employee501721,16/11/2018,11:45:00,BM Admin Time
+236,Employee501721,16/11/2018,12:00:00,BM Admin Time
+237,Employee501721,16/11/2018,12:15:00,BM Admin Time
+238,Employee501721,16/11/2018,12:30:00,BM Admin Time
+239,Employee501721,16/11/2018,12:45:00,BM Admin Time
+240,Employee501721,16/11/2018,13:00:00,BM Admin Time
+241,Employee501721,16/11/2018,13:15:00,BM Admin Time
+242,Employee501721,16/11/2018,13:30:00,BM Admin Time
+243,Employee501721,16/11/2018,13:45:00,BM Admin Time
+244,Employee501721,16/11/2018,14:00:00,BM Admin Time
+245,Employee501721,16/11/2018,14:15:00,BM Admin Time
+246,Employee501721,16/11/2018,14:30:00,BM Admin Time
+247,Employee501721,16/11/2018,14:45:00,BM Admin Time
+248,Employee501721,16/11/2018,15:00:00,BM Admin Time
+249,Employee501721,16/11/2018,15:15:00,BM Admin Time
+250,Employee501721,16/11/2018,15:30:00,BM Admin Time
+251,Employee501721,16/11/2018,15:45:00,BM Admin Time
+252,Employee501721,16/11/2018,16:00:00,Downtown Platform
+253,Employee501721,16/11/2018,16:15:00,Downtown Platform
+254,Employee501721,16/11/2018,16:30:00,Downtown Platform
+255,Employee501721,16/11/2018,16:45:00,Downtown Platform
+256,Employee501768,15/11/2018,09:00:00,Downtown Lobby
+257,Employee501768,15/11/2018,09:15:00,Downtown Lobby
+258,Employee501768,15/11/2018,09:30:00,Downtown Lobby
+259,Employee501768,15/11/2018,09:45:00,Downtown Lobby
+260,Employee501768,15/11/2018,10:00:00,Downtown Lobby
+261,Employee501768,15/11/2018,10:15:00,Downtown Lobby
+262,Employee501768,15/11/2018,10:30:00,Downtown Lobby
+263,Employee501768,15/11/2018,10:45:00,Downtown Lobby
+264,Employee501768,15/11/2018,11:00:00,Downtown Lobby
+265,Employee501768,15/11/2018,11:15:00,Downtown Lobby
+266,Employee501768,15/11/2018,11:30:00,Downtown Lobby
+267,Employee501768,15/11/2018,11:45:00,Downtown Lobby
+268,Employee501768,15/11/2018,12:00:00,Downtown Lobby
+269,Employee501768,15/11/2018,12:15:00,Downtown Lobby
+270,Employee501768,15/11/2018,12:30:00,Downtown Lobby
+271,Employee501768,15/11/2018,12:45:00,Downtown Lobby
+272,Employee501768,15/11/2018,13:00:00,Downtown Lobby
+273,Employee501768,15/11/2018,13:15:00,Downtown Lobby
+274,Employee501768,15/11/2018,13:30:00,Downtown Lobby
+275,Employee501768,15/11/2018,13:45:00,Downtown Lobby
+276,Employee501768,15/11/2018,14:00:00,Downtown Lobby
+277,Employee501768,15/11/2018,14:15:00,Downtown Lobby
+278,Employee501768,15/11/2018,14:30:00,Downtown Lobby
+279,Employee501768,15/11/2018,14:45:00,Downtown Lobby
+280,Employee501768,15/11/2018,15:00:00,Downtown Lobby
+281,Employee501768,15/11/2018,15:15:00,Downtown Lobby
+282,Employee501768,15/11/2018,15:30:00,Downtown Lobby
+283,Employee501768,15/11/2018,15:45:00,Downtown Lobby
+284,Employee501768,15/11/2018,16:00:00,Downtown Lobby
+285,Employee501768,15/11/2018,16:15:00,Downtown Lobby
+286,Employee501768,15/11/2018,16:30:00,Downtown Lobby
+287,Employee501768,15/11/2018,16:45:00,Downtown Lobby
+288,Employee501768,16/11/2018,09:00:00,Downtown Lobby
+289,Employee501768,16/11/2018,09:15:00,Downtown Lobby
+290,Employee501768,16/11/2018,09:30:00,Downtown Lobby
+291,Employee501768,16/11/2018,09:45:00,Downtown Lobby
+292,Employee501768,16/11/2018,10:00:00,Downtown Lobby
+293,Employee501768,16/11/2018,10:15:00,Downtown Lobby
+294,Employee501768,16/11/2018,10:30:00,Downtown Lobby
+295,Employee501768,16/11/2018,10:45:00,Downtown Lobby
+296,Employee501768,16/11/2018,11:00:00,Downtown Lobby
+297,Employee501768,16/11/2018,11:15:00,Downtown Lobby
+298,Employee501768,16/11/2018,11:30:00,Downtown Lobby
+299,Employee501768,16/11/2018,11:45:00,Downtown Lobby
+300,Employee501768,16/11/2018,12:00:00,Downtown Lobby
+301,Employee501768,16/11/2018,12:15:00,Downtown Lobby
+302,Employee501768,16/11/2018,12:30:00,Downtown Lobby
+303,Employee501768,16/11/2018,12:45:00,Downtown Lobby
+304,Employee501768,16/11/2018,13:00:00,Downtown Lobby
+305,Employee501768,16/11/2018,13:15:00,Downtown Lobby
+306,Employee501768,16/11/2018,13:30:00,Downtown Lobby
+307,Employee501768,16/11/2018,13:45:00,Downtown Lobby
+308,Employee501768,16/11/2018,14:00:00,Downtown Lobby
+309,Employee501768,16/11/2018,14:15:00,Downtown Lobby
+310,Employee501768,16/11/2018,14:30:00,Downtown Lobby
+311,Employee501768,16/11/2018,14:45:00,Downtown Lobby
+312,Employee501768,16/11/2018,15:00:00,Downtown Lobby
+313,Employee501768,16/11/2018,15:15:00,Downtown Lobby
+314,Employee501768,16/11/2018,15:30:00,Downtown Lobby
+315,Employee501768,16/11/2018,15:45:00,Downtown Lobby
+316,Employee501768,16/11/2018,16:00:00,Downtown Lobby
+317,Employee501768,16/11/2018,16:15:00,Downtown Lobby
+318,Employee501768,16/11/2018,16:30:00,Downtown Lobby
+319,Employee501768,16/11/2018,16:45:00,Downtown Lobby
+320,Employee501792,15/11/2018,09:00:00,Downtown Platform
+321,Employee501792,15/11/2018,09:15:00,Downtown Platform
+322,Employee501792,15/11/2018,09:30:00,Downtown Platform
+323,Employee501792,15/11/2018,09:45:00,Downtown Platform
+324,Employee501792,15/11/2018,10:00:00,Downtown Platform
+325,Employee501792,15/11/2018,10:15:00,Downtown Platform
+326,Employee501792,15/11/2018,10:30:00,Downtown Platform
+327,Employee501792,15/11/2018,10:45:00,Downtown Platform
+328,Employee501792,15/11/2018,11:00:00,Downtown Platform
+329,Employee501792,15/11/2018,11:15:00,Downtown Platform
+330,Employee501792,15/11/2018,11:30:00,Downtown Platform
+331,Employee501792,15/11/2018,11:45:00,Downtown Platform
+332,Employee501792,15/11/2018,12:00:00,Downtown Platform
+333,Employee501792,15/11/2018,12:15:00,Downtown Platform
+334,Employee501792,15/11/2018,12:30:00,Downtown Platform
+335,Employee501792,15/11/2018,12:45:00,Downtown Platform
+336,Employee501792,15/11/2018,13:00:00,Downtown Platform
+337,Employee501792,15/11/2018,13:15:00,Downtown Platform
+338,Employee501792,15/11/2018,13:30:00,Downtown Platform
+339,Employee501792,15/11/2018,13:45:00,Downtown Platform
+340,Employee501792,15/11/2018,14:00:00,Downtown Platform
+341,Employee501792,15/11/2018,14:15:00,Downtown Platform
+342,Employee501792,15/11/2018,14:30:00,Downtown Platform
+343,Employee501792,15/11/2018,14:45:00,Downtown Platform
+344,Employee501792,15/11/2018,15:00:00,Downtown Platform
+345,Employee501792,15/11/2018,15:15:00,Downtown Platform
+346,Employee501792,15/11/2018,15:30:00,Downtown Platform
+347,Employee501792,15/11/2018,15:45:00,Downtown Platform
+348,Employee501792,15/11/2018,16:00:00,Downtown Platform
+349,Employee501792,15/11/2018,16:15:00,Downtown Platform
+350,Employee501792,15/11/2018,16:30:00,Downtown Platform
+351,Employee501792,15/11/2018,16:45:00,Downtown Platform
+352,Employee501792,16/11/2018,09:00:00,Downtown Platform
+353,Employee501792,16/11/2018,09:15:00,Downtown Platform
+354,Employee501792,16/11/2018,09:30:00,Downtown Platform
+355,Employee501792,16/11/2018,09:45:00,Downtown Platform
+356,Employee501792,16/11/2018,10:00:00,Downtown Platform
+357,Employee501792,16/11/2018,10:15:00,Downtown Platform
+358,Employee501792,16/11/2018,10:30:00,Downtown Platform
+359,Employee501792,16/11/2018,10:45:00,Downtown Platform
+360,Employee501792,16/11/2018,11:00:00,Downtown Platform
+361,Employee501792,16/11/2018,11:15:00,Downtown Platform
+362,Employee501792,16/11/2018,11:30:00,Downtown Platform
+363,Employee501792,16/11/2018,11:45:00,Downtown Platform
+364,Employee501792,16/11/2018,12:00:00,Downtown Platform
+365,Employee501792,16/11/2018,12:15:00,Downtown Platform
+366,Employee501792,16/11/2018,12:30:00,Downtown Platform
+367,Employee501792,16/11/2018,12:45:00,Downtown Platform
+368,Employee501792,16/11/2018,13:00:00,Downtown Platform
+369,Employee501792,16/11/2018,13:15:00,Downtown Platform
+370,Employee501792,16/11/2018,13:30:00,Downtown Platform
+371,Employee501792,16/11/2018,13:45:00,Downtown Platform
+372,Employee501792,16/11/2018,14:00:00,Downtown Platform
+373,Employee501792,16/11/2018,14:15:00,Downtown Platform
+374,Employee501792,16/11/2018,14:30:00,Downtown Platform
+375,Employee501792,16/11/2018,14:45:00,Downtown Platform
+376,Employee501792,16/11/2018,15:00:00,Downtown Platform
+377,Employee501792,16/11/2018,15:15:00,Downtown Platform
+378,Employee501792,16/11/2018,15:30:00,Downtown Platform
+379,Employee501792,16/11/2018,15:45:00,Downtown Platform
+380,Employee501792,16/11/2018,16:00:00,Downtown Platform
+381,Employee501792,16/11/2018,16:15:00,Downtown Platform
+382,Employee501792,16/11/2018,16:30:00,Downtown Platform
+383,Employee501792,16/11/2018,16:45:00,Downtown Platform
+384,Employee501587,15/11/2018,09:00:00,Downtown Lobby
+385,Employee501587,15/11/2018,09:15:00,Downtown Lobby
+386,Employee501587,15/11/2018,09:30:00,Downtown Lobby
+387,Employee501587,15/11/2018,09:45:00,Downtown Lobby
+388,Employee501587,15/11/2018,10:00:00,Downtown Lobby
+389,Employee501587,15/11/2018,10:15:00,Downtown Platform
+390,Employee501587,15/11/2018,10:30:00,Downtown Lobby
+391,Employee501587,15/11/2018,10:45:00,Downtown Lobby
+392,Employee501587,15/11/2018,11:00:00,Downtown Lobby
+393,Employee501587,15/11/2018,11:15:00,Downtown Lobby
+394,Employee501587,15/11/2018,11:30:00,Downtown Lobby
+395,Employee501587,15/11/2018,11:45:00,Downtown Lobby
+396,Employee501587,15/11/2018,12:00:00,Downtown Lobby
+397,Employee501587,15/11/2018,12:15:00,Downtown Lobby
+398,Employee501587,15/11/2018,12:30:00,Downtown Lobby
+399,Employee501587,15/11/2018,12:45:00,Downtown Lobby
+400,Employee501587,15/11/2018,13:00:00,Downtown Lobby
+401,Employee501587,15/11/2018,13:15:00,Downtown Lobby
+402,Employee501587,15/11/2018,13:30:00,Downtown Lobby
+403,Employee501587,15/11/2018,13:45:00,Downtown Lobby
+404,Employee501587,15/11/2018,14:00:00,Downtown Lobby
+405,Employee501587,15/11/2018,14:15:00,Downtown Lobby
+406,Employee501587,15/11/2018,14:30:00,Downtown Lobby
+407,Employee501587,15/11/2018,14:45:00,Downtown Lobby
+408,Employee501587,15/11/2018,15:00:00,Downtown Lobby
+409,Employee501587,15/11/2018,15:15:00,Downtown Lobby
+410,Employee501587,15/11/2018,15:30:00,Downtown Lobby
+411,Employee501587,15/11/2018,15:45:00,Downtown Lobby
+412,Employee501587,15/11/2018,16:00:00,Downtown Lobby
+413,Employee501587,15/11/2018,16:15:00,Downtown Lobby
+414,Employee501587,15/11/2018,16:30:00,Downtown Lobby
+415,Employee501587,15/11/2018,16:45:00,Downtown Lobby
+416,Employee501587,16/11/2018,09:00:00,Downtown Lobby
+417,Employee501587,16/11/2018,09:15:00,Downtown Lobby
+418,Employee501587,16/11/2018,09:30:00,Downtown Lobby
+419,Employee501587,16/11/2018,09:45:00,Downtown Lobby
+420,Employee501587,16/11/2018,10:00:00,Downtown Lobby
+421,Employee501587,16/11/2018,10:15:00,Downtown Lobby
+422,Employee501587,16/11/2018,10:30:00,Downtown Lobby
+423,Employee501587,16/11/2018,10:45:00,Downtown Lobby
+424,Employee501587,16/11/2018,11:00:00,Downtown Lobby
+425,Employee501587,16/11/2018,11:15:00,Downtown Lobby
+426,Employee501587,16/11/2018,11:30:00,Downtown Lobby
+427,Employee501587,16/11/2018,11:45:00,Downtown Lobby
+428,Employee501587,16/11/2018,12:00:00,Downtown Lobby
+429,Employee501587,16/11/2018,12:15:00,Downtown Lobby
+430,Employee501587,16/11/2018,12:30:00,Downtown Lobby
+431,Employee501587,16/11/2018,12:45:00,Downtown Lobby
+432,Employee501587,16/11/2018,13:00:00,Downtown Lobby
+433,Employee501587,16/11/2018,13:15:00,Downtown Lobby
+434,Employee501587,16/11/2018,13:30:00,Downtown Lobby
+435,Employee501587,16/11/2018,13:45:00,Downtown Lobby
+436,Employee501587,16/11/2018,14:00:00,Downtown Lobby
+437,Employee501587,16/11/2018,14:15:00,Downtown Lobby
+438,Employee501587,16/11/2018,14:30:00,Downtown Lobby
+439,Employee501587,16/11/2018,14:45:00,Downtown Lobby
+440,Employee501587,16/11/2018,15:00:00,Downtown Lobby
+441,Employee501587,16/11/2018,15:15:00,Downtown Lobby
+442,Employee501587,16/11/2018,15:30:00,Downtown Lobby
+443,Employee501587,16/11/2018,15:45:00,Downtown Lobby
+444,Employee501587,16/11/2018,16:00:00,Downtown Lobby
+445,Employee501587,16/11/2018,16:15:00,Downtown Lobby
+446,Employee501587,16/11/2018,16:30:00,Downtown Lobby
+447,Employee501587,16/11/2018,16:45:00,Downtown Lobby
+448,Employee501595,15/11/2018,09:00:00,Downtown Platform
+449,Employee501595,15/11/2018,09:15:00,Downtown Platform
+450,Employee501595,15/11/2018,09:30:00,Downtown Platform
+451,Employee501595,15/11/2018,09:45:00,Downtown Platform
+452,Employee501595,15/11/2018,10:00:00,Downtown Platform
+453,Employee501595,15/11/2018,10:15:00,Downtown Platform
+454,Employee501595,15/11/2018,10:30:00,Downtown Platform
+455,Employee501595,15/11/2018,10:45:00,Downtown Platform
+456,Employee501595,15/11/2018,11:00:00,Downtown Platform
+457,Employee501595,15/11/2018,11:15:00,Downtown Platform
+458,Employee501595,15/11/2018,11:30:00,Downtown Platform
+459,Employee501595,15/11/2018,11:45:00,Downtown Platform
+460,Employee501595,15/11/2018,12:00:00,Downtown Platform
+461,Employee501595,15/11/2018,12:15:00,Downtown Platform
+462,Employee501595,15/11/2018,12:30:00,Downtown Platform
+463,Employee501595,15/11/2018,12:45:00,Downtown Platform
+464,Employee501595,15/11/2018,13:00:00,Downtown Platform
+465,Employee501595,15/11/2018,13:15:00,Downtown Platform
+466,Employee501595,15/11/2018,13:30:00,Downtown Platform
+467,Employee501595,15/11/2018,13:45:00,Downtown Platform
+468,Employee501595,15/11/2018,14:00:00,Downtown Platform
+469,Employee501595,15/11/2018,14:15:00,Downtown Platform
+470,Employee501595,15/11/2018,14:30:00,Downtown Platform
+471,Employee501595,15/11/2018,14:45:00,Downtown Platform
+472,Employee501595,15/11/2018,15:00:00,Downtown Platform
+473,Employee501595,15/11/2018,15:15:00,Downtown Platform
+474,Employee501595,15/11/2018,15:30:00,Downtown Platform
+475,Employee501595,15/11/2018,15:45:00,Downtown Platform
+476,Employee501595,15/11/2018,16:00:00,Downtown Platform
+477,Employee501595,15/11/2018,16:15:00,Downtown Platform
+478,Employee501595,15/11/2018,16:30:00,Downtown Platform
+479,Employee501595,15/11/2018,16:45:00,Downtown Platform
+480,Employee501595,16/11/2018,09:00:00,Downtown Platform
+481,Employee501595,16/11/2018,09:15:00,Downtown Platform
+482,Employee501595,16/11/2018,09:30:00,Downtown Platform
+483,Employee501595,16/11/2018,09:45:00,Downtown Platform
+484,Employee501595,16/11/2018,10:00:00,Downtown Platform
+485,Employee501595,16/11/2018,10:15:00,Downtown Platform
+486,Employee501595,16/11/2018,10:30:00,Downtown Platform
+487,Employee501595,16/11/2018,10:45:00,Downtown Platform
+488,Employee501595,16/11/2018,11:00:00,Downtown Platform
+489,Employee501595,16/11/2018,11:15:00,Downtown Platform
+490,Employee501595,16/11/2018,11:30:00,Downtown Platform
+491,Employee501595,16/11/2018,11:45:00,Downtown Platform
+492,Employee501595,16/11/2018,12:00:00,Downtown Platform
+493,Employee501595,16/11/2018,12:15:00,Downtown Platform
+494,Employee501595,16/11/2018,12:30:00,Downtown Platform
+495,Employee501595,16/11/2018,12:45:00,Downtown Platform
+496,Employee501595,16/11/2018,13:00:00,Downtown Platform
+497,Employee501595,16/11/2018,13:15:00,Downtown Platform
+498,Employee501595,16/11/2018,13:30:00,Downtown Platform
+499,Employee501595,16/11/2018,13:45:00,Downtown Platform
+500,Employee501595,16/11/2018,14:00:00,Downtown Platform
+501,Employee501595,16/11/2018,14:15:00,Downtown Platform
+502,Employee501595,16/11/2018,14:30:00,Downtown Platform
+503,Employee501595,16/11/2018,14:45:00,Downtown Platform
+504,Employee501595,16/11/2018,15:00:00,Downtown Platform
+505,Employee501595,16/11/2018,15:15:00,Downtown Platform
+506,Employee501595,16/11/2018,15:30:00,Downtown Platform
+507,Employee501595,16/11/2018,15:45:00,Downtown Platform
+508,Employee501595,16/11/2018,16:00:00,Downtown Platform
+509,Employee501595,16/11/2018,16:15:00,Downtown Platform
+510,Employee501595,16/11/2018,16:30:00,Downtown Platform
+511,Employee501595,16/11/2018,16:45:00,Downtown Platform

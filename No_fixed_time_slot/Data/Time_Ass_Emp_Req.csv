@@ -1,0 +1,109 @@
+Time,Assignment,Requirement
+08:30 AM,Teller Opener,1
+08:30 AM,MSR Opener,1
+08:30 AM,Teller Closer,1
+08:30 AM,MSR Closer,1
+08:45 AM,Teller Opener,1
+08:45 AM,MSR Opener,1
+08:45 AM,Teller Closer,1
+08:45 AM,MSR Closer,1
+09:00 AM,BM Admin Time,1
+09:15 AM,BM Admin Time,1
+09:30 AM,BM Admin Time,1
+09:45 AM,BM Admin Time,1
+09:00 AM,ABM Admin Time,1
+09:15 AM,ABM Admin Time,1
+09:30 AM,ABM Admin Time,1
+09:45 AM,ABM Admin Time,1
+10:00 AM,ABM Admin Time,1
+10:15 AM,ABM Admin Time,1
+10:30 AM,ABM Admin Time,1
+10:45 AM,ABM Admin Time,1
+11:00 AM,ABM Admin Time,1
+11:15 AM,ABM Admin Time,1
+11:30 AM,ABM Admin Time,1
+11:45 AM,ABM Admin Time,1
+12:00 PM,ABM Admin Time,1
+12:15 PM,ABM Admin Time,1
+12:30 PM,ABM Admin Time,1
+12:45 PM,ABM Admin Time,1
+1:00 PM,ABM Admin Time,1
+1:15 PM,ABM Admin Time,1
+1:30 PM,ABM Admin Time,1
+1:45 PM,ABM Admin Time,1
+2:00 PM,ABM Admin Time,1
+2:15 PM,ABM Admin Time,1
+2:30 PM,ABM Admin Time,1
+2:45 PM,ABM Admin Time,1
+3:00 PM,ABM Admin Time,1
+3:15 PM,ABM Admin Time,1
+3:30 PM,ABM Admin Time,1
+3:45 PM,ABM Admin Time,1
+10:00 AM,BMT Meeting,2
+10:15 AM,BMT Meeting,2
+10:30 AM,BMT Meeting,2
+10:45 AM,BMT Meeting,2
+09:00 AM,DowntownLobby,3.7
+09:15 AM,DowntownLobby,3.1
+09:30 AM,DowntownLobby,2.5
+09:45 AM,DowntownLobby,2.7
+10:00 AM,DowntownLobby,4
+10:15 AM,DowntownLobby,2.7
+10:30 AM,DowntownLobby,3.6
+10:45 AM,DowntownLobby,3.2
+11:00 AM,DowntownLobby,4.1
+11:15 AM,DowntownLobby,4.3
+11:30 AM,DowntownLobby,4.8
+11:45 AM,DowntownLobby,3.2
+12:00 PM,DowntownLobby,5.3
+12:15 PM,DowntownLobby,4.4
+12:30 PM,DowntownLobby,2.7
+12:45 PM,DowntownLobby,4.4
+1:00 PM,DowntownLobby,3.8
+1:15 PM,DowntownLobby,5.4
+1:30 PM,DowntownLobby,5.2
+1:45 PM,DowntownLobby,4.7
+2:00 PM,DowntownLobby,3.7
+2:15 PM,DowntownLobby,4.8
+2:30 PM,DowntownLobby,4.5
+2:45 PM,DowntownLobby,4.1
+3:00 PM,DowntownLobby,1.6
+3:15 PM,DowntownLobby,2.9
+3:30 PM,DowntownLobby,5.4
+3:45 PM,DowntownLobby,4.1
+4:00 PM,DowntownLobby,3.4
+4:15 PM,DowntownLobby,4.7
+4:30 PM,DowntownLobby,4
+4:45 PM,DowntownLobby,7.2
+09:00 AM,DowntownPlatform,1.5
+09:15 AM,DowntownPlatform,2.7
+09:30 AM,DowntownPlatform,3.6
+09:45 AM,DowntownPlatform,4.1
+10:00 AM,DowntownPlatform,3.5
+10:15 AM,DowntownPlatform,3.3
+10:30 AM,DowntownPlatform,1.9
+10:45 AM,DowntownPlatform,1.6
+11:00 AM,DowntownPlatform,2.6
+11:15 AM,DowntownPlatform,2.8
+11:30 AM,DowntownPlatform,2.2
+11:45 AM,DowntownPlatform,2.6
+12:00 PM,DowntownPlatform,2
+12:15 PM,DowntownPlatform,2.4
+12:30 PM,DowntownPlatform,3.1
+12:45 PM,DowntownPlatform,3.1
+1:00 PM,DowntownPlatform,3.4
+1:15 PM,DowntownPlatform,2.9
+1:30 PM,DowntownPlatform,2.8
+1:45 PM,DowntownPlatform,2.3
+2:00 PM,DowntownPlatform,2.1
+2:15 PM,DowntownPlatform,1.8
+2:30 PM,DowntownPlatform,1.2
+2:45 PM,DowntownPlatform,1.7
+3:00 PM,DowntownPlatform,2.4
+3:15 PM,DowntownPlatform,3
+3:30 PM,DowntownPlatform,3.1
+3:45 PM,DowntownPlatform,3.1
+4:00 PM,DowntownPlatform,3.8
+4:15 PM,DowntownPlatform,2.1
+4:30 PM,DowntownPlatform,3.7
+4:45 PM,DowntownPlatform,3.3
